@@ -1,0 +1,28 @@
+body{
+	font-family:Indie Flower, cursive;
+}
+
+.bg-1{
+
+	background-color: cyan;
+}
+.bg-2{
+	background-color: grey;
+	color: cyan;
+}
+.bg-3{
+	background-color:cyan;
+	color: black;
+}
+.container-fluid{
+	padding-top: 80px;
+	padding-bottom: 80px
+}
+.bg-4{
+	background-color: grey;
+	color: cyan;
+}
+.bg-5{
+	background-color: black;
+	color: yellow;
+}
